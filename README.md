@@ -1,4 +1,4 @@
-![Header Image](relative/path/to/your/image.png)
+![Header Image](https://github.com/infoparth/infoparth/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Parth Verma</h1>
 <h3 align="center">Web3 enthusiast | Second-year undergrad with a passion for decentralized technologies | Solidity developer and open-source contributor | Thrives on problem-solving and building decentralized solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
