@@ -1,4 +1,4 @@
-![Header Image](relative/path/to/your/image.png)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Parth Verma</h1>
 <h3 align="center">Web3 enthusiast | Second-year undergrad with a passion for decentralized technologies | Solidity developer and open-source contributor | Thrives on problem-solving and building decentralized solutions.</h3>
 
