@@ -1,4 +1,3 @@
-![Header](./github-header-image (1).png)
 <h1 align="center">Hi 👋, I'm Parth Verma</h1>
 <h3 align="center">Web3 enthusiast | Second-year undergrad with a passion for decentralized technologies | Solidity developer and open-source contributor | Thrives on problem-solving and building decentralized solutions.</h3>
 
