@@ -1,6 +1,6 @@
 ![Header Image](https://github.com/infoparth/infoparth/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Parth Verma</h1>
-<h3 align="center">Web3 enthusiast | Second-year undergrad with a passion for decentralized technologies | Smart Contract developer and open-source contributor | Thrives on problem-solving and building decentralized solutions.</h3>
+<h3 align="center">Web3 enthusiast | Third-year undergrad with a passion for decentralized technologies | Smart Contract developer and open-source contributor | Thrives on problem-solving and building decentralized solutions.</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Solidity.<br><br>💬 Ask me about Blockchain, Solidity, and Smart Contracts (even Chess gossip is welcome 😅).<br><br>📫 Reach me at parthatharv2606@gmail.com.<br><br>⚡ Fun fact about me is that I play chess and feel I'm pretty good at it.<br>
