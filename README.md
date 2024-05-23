@@ -16,8 +16,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=infoparth&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=infoparth&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
+<!--## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=verma_parth79)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=infoparth&icon=0&color=0)](https://visitcount.itsvg.in)
